@@ -1,0 +1,11 @@
+Week 0 (Computational Thinking)  
+Week 1 (C)
+Week 2 (Array)
+Week 3 (Algorithms)
+Week 4 (Memory)
+Week 5 (Data Structures)
+Week 6 (Python)
+Week 7 (SQL)
+Week 8 (Information)
+
+
